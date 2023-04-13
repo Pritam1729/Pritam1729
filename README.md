@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pritam1729
-- 🎈 I am a Web Developer and a Data Science Enthusiast
+- 🎈 I am a Competitive Programmer, Web Developer and a Data Science Enthusiast
 - 🌱 I’m currently persuing by B-Tech in Computer Science from PES University
 - 📫 You can reach me with by linkedin Account www.linkedin.com/in/pritam-gurav-b38529237
 
