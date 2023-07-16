@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam S Gurav</h1>
 
 # 💫 About Me:
-🔭 I’m currently pursuing my BTech Degree from  PES University<br>👯 I’m looking to collaborate on Machine Learning WEB Apps and MERN Stack<br>🌱 I’m currently Exploring React Native and Andriod Development<br>💬 Ask me about MERN Stack and Machine Learning<br>⚡ Fun fact - I am not Funny
+🔭 I’m currently pursuing my BTech Degree from  PES University<br>👯 I’m looking to collaborate on Machine Learning WEB Apps and MERN Stack<br>🌱 I’m currently Exploring Flutter and Mobile Development<br>💬 Ask me about MERN Stack and Machine Learning<br>⚡ Fun fact - I am not Funny
 
 
 ## 🌐 Socials:
